@@ -1,0 +1,92 @@
+body{
+  margin: 0;
+  font: 16px arial;
+  background-color: #eaeaea;
+  background-image: url('../assets/double-bubble-dark.png');
+  color: #333 ;
+}
+hr{
+  height:2px;
+  border-width:0;
+  color:gray;
+  background-color:#333
+}
+
+.container{
+  width: 800px;
+  margin: 50px auto;
+  background-color: rgb(102, 103, 105);
+  border: 1px solid rgb(44, 44, 44);
+}
+
+.header{
+  padding: 20px;
+  padding-top: 1px;
+  padding-bottom: 5px;
+  background-color: rgb(102, 103, 105);
+}
+.header .judul{
+  font-size: 30px;
+  margin-top: 10px;
+}
+.header li{
+  margin-right: 10px;
+  display: inline-block;
+}
+.header ul{
+  padding-left: 2px;
+  margin-left: -1px;
+}
+.header a{
+  text-decoration: none;
+  color: rgb(119, 202, 81);
+  padding: 4px;
+  border-radius: 2px;
+}
+.header a:hover{
+  background-color: rgb(119, 202, 81);
+  color: white;
+}
+
+.jumbotron{
+  height: 395px;
+  background-image: url('../assets/gambar.jpg');
+  background-size: cover;
+  background-position: 0 -100px;
+}
+
+.body{
+  padding: 20px;
+  background-color: silver;
+}
+
+.footer{
+  background-color: rgb(54, 54, 54);
+}
+.footer .copyright{
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-size: 15px;
+}
+
+table{
+  border-collapse: collapse;
+  margin: 50px auto;
+  width: 100%;
+}
+table, th, td{
+  border: 1px solid black;
+}
+td{
+  text-align: center;
+}
+
+form{
+  background-color: rgb(202, 202, 202);
+  padding: 15px 50px;
+  margin:50px auto;
+  width:300px;
+  
+}
+
