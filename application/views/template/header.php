@@ -19,7 +19,7 @@
     <li><a rel="stylesheet" href="<?= base_url().'musik/tambah'?>">Tambah Musik</a></li>
     <li><a target="_blank" href="https://www.linkedin.com/in/dheo-apriansyah-b13100174/">Linkedin</a></li>
     <li><a target="_blank" href="https://github.com/DheoAp">GitHub</a></li>     
-    <li><a href="">About</a></li>
+    <li><a href="<?= base_url().'musik/about'?>">About</a></li>
   </ul>
   <hr class="hr">
 </div>
