@@ -19,6 +19,14 @@ class Musik extends CI_Controller {
 		$this->load->view('template/footer');
 	}
 
+	public function about()
+	{
+		$data['judul'] = 'About me';
+		$this->load->view('template/header',$data);
+		$this->load->view('about');
+		$this->load->view('template/footer');
+	}
+
 	public function Tambah()
 	{
 		$data['judul'] = 'Tambah Musik';	
