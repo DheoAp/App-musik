@@ -1,5 +1,5 @@
 <form action="" method="post" enctype="multipart/form-data">
-<h4 style="text-align: center;margin-bottom: 5px;"><i class="fas fa-headphones-alt"></i> Ubah Musik <i class="fas fa-headphones-alt"></i></h4>
+<h4 style="text-align: center;margin-bottom: 5px;"><i class="fas fa-headphones-alt"></i> Ubah Musik</h4>
 <hr>
   <input type="hidden" name="id_musik" value="<?= $tbl_musik['id_musik']?>">
   <div>
@@ -22,6 +22,6 @@
     </select>
   </div>
   <hr>
-  <button type="submit" name="tambah">Ubah</button>
-  <button type="submit" name="tambah"><a style="text-decoration: none;color:black" rel="stylesheet" href="<?= base_url()?>">batal</a></button>
+  <button class="btn btn-primary" type="submit" name="tambah">Ubah</button>
+  <button class="btn btn-danger"><a style="text-decoration: none;color:white" rel="stylesheet" href="<?= base_url()?>">batal</a></button>
 </form>
