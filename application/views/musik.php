@@ -1,6 +1,6 @@
 <div class="body">
 	
-	<h2><i class="fas fa-music"></i> Playlist Musik Saya</h2>
+	<h3><i class="fas fa-music"></i> Playlist Musik Saya</h3>
 	<hr class="hr">
 	<?php if( $this->session->flashdata('flash')): ?>
 			<div style="color: green;">
@@ -8,7 +8,7 @@
 			</div>
 	<?php endif; ?>
 	<table>
-		<thead>
+		<thead class="text-center">
 			<tr>
 			<th>Nama Band</th>
 			<th>Judul Musik</th>
