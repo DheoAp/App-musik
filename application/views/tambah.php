@@ -5,7 +5,7 @@
     </div>
   <?php endif; ?>
   
-  <h4 style="text-align: center;margin-bottom: 5px;"><i class="fas fa-headphones-alt"></i> Tambah Musik <i class="fas fa-headphones-alt"></i></h4>
+  <h4 style="text-align: center;margin-bottom: 5px;"><i class="fas fa-headphones-alt"></i> Tambah Musik</h4>
   <hr>
   <div style="margin-top: 25px;">
     <label for="nama_band">Nama Band</label><br>
@@ -27,5 +27,5 @@
     </select>
   </div><br>
   <hr>
-  <button type="submit" name="tambah">Tambah</button>
+  <button class="btn btn-primary" type="submit" name="tambah">Tambah</button>
 </form>
