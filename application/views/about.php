@@ -1,5 +1,0 @@
-<div class="body">
-  <h3>Tentang Saya</h3>
-  <h4>Dheo Apriansyah</h4>
-  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum laborum laboriosam iure sint animi possimus fugit reiciendis obcaecati laudantium necessitatibus at maiores dignissimos voluptates eos ea neque quos voluptas, quia doloribus eveniet quam rerum culpa! Id temporibus omnis repellat quidem doloremque, ratione sequi quo reprehenderit totam laboriosam similique sed natus iusto quia incidunt debitis consequatur. Corporis totam, asperiores magnam voluptates dolore ipsam commodi ut doloremque tempora. Voluptatem sapiente molestias perferendis nobis voluptas nostrum, at doloribus vero repellat sint, dolorem dolores sed. Cumque ratione eius consectetur possimus quia ab minima fugiat, inventore a earum error deserunt, voluptatibus quas adipisci iusto numquam.</p>
-</div>
