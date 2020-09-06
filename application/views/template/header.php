@@ -12,7 +12,7 @@
 <body>
 <div class="container">
 <div class="header">
-  <h3><i class="fas fa-headphones-alt fa-2x"></i> Selamat Datang di App Musik</h3>
+  <h3><i class="fas fa-headphones-alt mt-3"></i> Selamat Datang di App Musik</h3>
   <hr class="hr">
   <ul>
     <li><a href="<?= base_url()?>">Musik Saya</a></li>
